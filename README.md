@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/andyfoston/coding_kata.svg?branch=master)](https://travis-ci.com/andyfoston/coding_kata)
+
 # Coding Kata
 
 A script that runs basic arithmetic functions from the command line
